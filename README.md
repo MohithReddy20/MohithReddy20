@@ -2,8 +2,7 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Mohith Reddy Yannam
 
 [![Website](https://img.shields.io/badge/Mohith%20Reddy%20Yannam-grey?style=for-the-badge&url=https%3A%2F%2Fkevinfeng.ga)](https://mohithreddy20.github.io/Personal-Portfolio/Portfolio/index.html)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/mohith-reddy-yannam/)
-
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=[https://www.linkedin.com/in/kevin-feng-87a174202/](https://www.linkedin.com/in/mohith-reddy-yannam/))](https://www.linkedin.com/in/mohith-reddy-yannam//)
 ## About Me:
 :school: Currently studying Computer Science at CBIT, Proddatur</br>
 :fountain_pen: I have a passion for Software Development</br>
