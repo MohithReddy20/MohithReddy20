@@ -4,6 +4,7 @@
 [![Website](https://img.shields.io/badge/Mohith%20Reddy%20Yannam-grey?style=for-the-badge&url=https%3A%2F%2Fkevinfeng.ga)](https://mohithreddy20.github.io/Personal-Portfolio/Portfolio/index.html)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/mohith-reddy-yannam/)
 
+## About Me:
 :school: Currently studying Computer Science at CBIT, Proddatur</br>
 :fountain_pen: I have a passion for Software Development</br>
 :computer: I love coding and solving problems</br>
@@ -11,14 +12,13 @@
 ☕: Fun fact: I believe coffee is the secret code to my productivity</br>
 :mailbox: How to reach me: <a href="mailto:yannammohithreddy@gmail.com">yannammohithreddy@gmail.com</a>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MohithReddy2088&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Mohith's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohithReddy20&theme=github_dark&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
-
+## Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MohithReddy20&repo=Personal-Portfolio&theme=github_dark)](https://github.com/MohithReddy20/Personal-Portfolio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MohithReddy20&repo=Python_Replit&theme=github_dark)](https://github.com/MohithReddy20/Python_Replit)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MohithReddy20&repo=RandomDadJokes&theme=github_dark)](https://github.com/MohithReddy20/RandomDadJokes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MohithReddy20&repo=CodeSoft&theme=github_dark)](https://github.com/MohithReddy20/CodeSoft)
 
+## Languages and Tools:
 <div>
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;&nbsp;&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png">&nbsp;
